@@ -5,6 +5,8 @@ Este projeto foi desenvolvido como apenas uma brincadeira, não como uma maneira
 
 O projeto consiste em um bot que ultiliza a API do discord para mandar informações para um segundo programa, que mostrará elas em uma UI parecida ao Discord, sendo possível apenas ler e mandar mensagens em canais de texto.
 
+Foi utilizado a biblioteca PyQt6 juntamente com o Qt Designer para a criação da UI.
+
 A comunicação entre os 2 arquivos é feita por um servidor local
 
 ![image](https://user-images.githubusercontent.com/94933775/153419030-57009821-8d7e-4e66-bfc8-c8b655553c60.png)
@@ -23,4 +25,4 @@ Clique no servidor onde poderá ser visto a lista dos canais e dos membros, sele
 Para recarregar o canal clique no canal de texto novamente.
 
 
-(este projeto não está totalmente finalizado e pode apresentar alguns bugs)
+(este projeto não está totalmente finalizado e pode apresentar alguns bugs e falhas de segurança)
